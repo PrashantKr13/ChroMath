@@ -10,11 +10,11 @@ This Flutter calculator app allows users to customize the colors of the keys usi
 To get started with the Flutter Calculator App, follow these steps:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/flutter-calculator-app.git
+   git clone https://github.com/PrashantKr13/ChroMath.git
    ```
 2. Navigate to the project directory:
    ```
-   cd flutter-calculator-app
+   cd your-directory-name
    ```
 3. Install dependencies::
    ```
